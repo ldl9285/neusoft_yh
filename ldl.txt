@@ -1,0 +1,4 @@
+lideliang  insert:w
+:q
+:wq
+
